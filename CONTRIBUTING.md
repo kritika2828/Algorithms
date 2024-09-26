@@ -25,23 +25,17 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
 
 1. Fork this repository.
 
-2. Check the table in the README.md file to see if the algorithm has already been added. If not, add a new row with the name of algorithm and create a new folder with a name of the algorithm.
+2. Check the table in the README.md file to see if the language and algorithms have already been added. If not, create a new folder with a name of the language. Inside the folder create the folder for Algorithm you want to share and add your code.
 
-3. Inside the folder create the folder for language you want to share and add your code.
+3. Add your name into the contributors list in CONTRIBUTING.md file
 
-4. Commit
+4. Commit, Push
 
-5. Update the README.md. Check the language you have used in the table (check emoji is ``:+1:`` )
+5. Make a pull request
 
-6. Add your name into the contributors list in CONTRIBUTING.md file
+6. Star The Repository
 
-7. Commit, Push
-
-8. Make a pull request
-
-9. Star The Repository
-
-10. Happy Hacktoberfest
+7. Happy Hacktoberfest
 
 
 *******
@@ -165,6 +159,7 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
 - [Aniket Joshi](https://github.com/aniket7joshi)
 - [kuldeepdadhich](https://github.com/kuldeepdadhich)
 - [HimanshuAwasthi95](https://github.com/HimanshuAwasthi95)
+- [Shaon](https://github.com/me-shaon)
 - [Chinmay Chandak](https://github.com/CCAtAlvis)
 - [Suman Chaurasia](https://github.com/bzero0)
 - [Patrick Fischer](https://github.com/patFish)
@@ -174,3 +169,18 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
 - [BrianChen](https://github.com/brianchen)
 - [S Ramakrishnan](https://github.com/sramakrishnan247)
 - [Atalanttore](https://github.com/Atalanttore)
+- [Anto26](https://github.com/Anto26)
+- [p-avital](https://github.com/p-avital)
+- [neddstarkk](https://github.com/neddstarkk)
+- [h3r0complex](https://github.com/h3r0complex)
+- [vzsky](https://github.com/vzsky)
+- [raphaelmeyer](https://github.com/raphaelmeyer)
+- [jonasbn](https://github.com/jonasbn)
+- [Aman Kumar](https://github.com/aman-ku)
+- [Esci92](https://github.com/Esci92)
+- [ir2010](https://github.com/ir2010)
+- [Cc618](https://github.com/Cc618)
+- [Md Azharuddin](https://github.com/azhar1038)
+- [Jatin7385](https://github.com/Jatin7385)
+- [Rhuancpq](https://github.com/Rhuancpq)
+- [Omkarnath](https://github.com/pomkarnath98)

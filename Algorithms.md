@@ -4,7 +4,7 @@
 
 * A-law algorithm    :    standard companding algorithm
 
-* [A-Star (A*) algorithm](AStarSearch)    :    extended Dijkstra path finding algorithm for searching shortest path
+* [A-Star (A*) algorithm](AStar%20Search)    :    extended Dijkstra path finding algorithm for searching shortest path
 
 * AdaBoost    :    adaptive boosting
 
@@ -70,6 +70,8 @@
 
 * [Binary search algorithm](BinarySearch)    :    locates an item in a sorted sequence
 
+* [Binary Tree All Traversals]       : PreOrder, PostOrder, InOrder, Level Order Traversal
+
 * Binary splitting    :    a divide and conquer technique which speeds up the numerical evaluation of many types of series with rational terms
 
 * Birkhoff interpolation    :    an extension of polynomial interpolation
@@ -94,7 +96,7 @@
 
 * Boyer–Moore–Horspool algorithm    :    Simplification of Boyer–Moore
 
-* [Breadth-first search](BreadthFirstSearch)    :    traverses a graph level by level
+* [Breadth-first search](Breadth%20First%20Search)    :    traverses a graph level by level
 
 * Brent's algorithm    :    finds a cycle in function value iterations using only two iterators
 
@@ -110,7 +112,7 @@
 
 	* D    :    an incremental heuristic search algorithm
 
-	* [Depth-first search](DepthFirstSearch)    :    traverses a graph branch by branch
+	* [Depth-first search](Depth%20First%20Search)    :    traverses a graph branch by branch
 
 	* [Dijkstra's algorithm](Dijkstra's)    :    A special case of A for which no heuristic function is used
 
@@ -170,7 +172,7 @@
 
 * [Conjugate gradient](Conjugate%20Gradient)    :    an algorithm for the numerical solution of particular systems of linear equations
 
-* [Connected-component labeling](ConnectedComponentLabeling)    :    find and label disjoint regions
+* [Connected-component labeling](Connected%20Component%20Labeling)    :    find and label disjoint regions
 
 * Constraint algorithm    :    a class of algorithms for satisfying constraints for bodies that obey Newton's equations of motion
 
@@ -182,11 +184,11 @@
 
 * Cuthill–McKee algorithm    :    reduce the bandwidth of a symmetric sparse matrix
 
-* [Cycle sort](CycleSort)    :    in-place with theoretically optimal number of writes
+* [Cycle sort](Cycle%20Sort)    :    in-place with theoretically optimal number of writes
 
 * CYK algorithm    :    An O(n<sup>3</sup>) algorithm for parsing context-free grammars in Chomsky normal form
 
-* [Counting Inversions](CountingInversions)    :    Inversion Count for an array indicates – how far (or close) the array is from being sorted.
+* [Counting Inversions](Counting%20Inversions)    :    Inversion Count for an array indicates – how far (or close) the array is from being sorted.
 
 * Daitch–Mokotoff Soundex    :    a Soundex refinement which allows matching of Slavic and Germanic surnames
 
@@ -224,21 +226,21 @@
 
 * Dynamic Markov compression    :    Compression using predictive arithmetic coding
 
-* [Dynamic Programming](DynamicProgramming)    :    problems exhibiting the properties of overlapping subproblems and optimal substructure
+* [Dynamic Programming](Dynamic%20Programming)    :    problems exhibiting the properties of overlapping subproblems and optimal substructure
 
 * Dynamic time warping    :    measure similarity between two sequences which may vary in time or speed
 
 * Earley parser    :    Another O(n<sup>3</sup>) algorithm for parsing any context-free grammar
 
-* [Edmonds–Karp algorithm](EdmondsKarp)    :    implementation of Ford–Fulkerson
+* [Edmonds–Karp algorithm](Edmonds%20Karp)    :    implementation of Ford–Fulkerson
 
-* [Elevator algorithm](ElevatorAlgorithm)    :    Disk scheduling algorithm that works like an elevator.
+* [Elevator algorithm](Elevator%20Algorithm)    :    Disk scheduling algorithm that works like an elevator.
 
 * Ellipsoid method    :    is an algorithm for solving convex optimization problems
 
 * Espresso heuristic logic minimizer    :    Fast algorithm for boolean function minimization.
 
-* [Euclidean algorithm](GreatestCommonDivisor)    :    computes the greatest common divisor
+* [Euclidean algorithm](Greatest%20Common%20Divisor)    :    computes the greatest common divisor
 
 * Euclidean minimum spanning tree    :    algorithms for computing the minimum spanning tree of a set of points in the plane
 
@@ -246,13 +248,13 @@
 
 * Exponentiating by squaring    :    an algorithm used for the fast computation of large integer powers of a number
 
-* [Extended Euclidean algorithm](ExtendedEuclideanAlgorithm)    :    Also solves the equation <i>ax</i>&#160;+&#160;<i>by</i>&#160;=&#160;<i>c</i>.
+* [Extended Euclidean algorithm](Extended%20Euclidean%20Algorithm)    :    Also solves the equation <i>ax</i>&#160;+&#160;<i>by</i>&#160;=&#160;<i>c</i>.
 
 * False position method    :    approximates roots of a function
 
 * Fast folding algorithm    :    an efficient algorithm for the detection of approximately periodic events within time series data
 
-* [Fast Fourier Transform](FastFourierTransform):    A fast Fourier transform (FFT) algorithm computes the discrete Fourier transform (DFT) of a sequence
+* [Fast Fourier Transform](Fast%20Fourier%20Transform):    A fast Fourier transform (FFT) algorithm computes the discrete Fourier transform (DFT) of a sequence
 
 * Faugère F4 algorithm    :    finds a Gröbner basis (also mentions the F5 algorithm)
 
@@ -322,17 +324,17 @@
 
 * Halley's method    :    uses first and second derivatives
 
-* [Hamming distance](HammingDistance)    :    sum number of positions which are different
+* [Hamming distance](Hamming%20Distance)    :    sum number of positions which are different
 
 * Hamming(7,4)    :    a Hamming code that encodes 4 bits of data into 7 bits by adding 3 parity bits
 
 * Heap's permutation generation algorithm    :    interchange elements to generate next permutation
 
-* [Heapsort](HeapSort)    :    convert the list into a heap, keep removing the largest element from the heap and adding it to the end of the list
+* [Heapsort](Heap%20Sort)    :    convert the list into a heap, keep removing the largest element from the heap and adding it to the end of the list
 
 * Hirschberg's algorithm    :    finds the least cost sequence alignment between two sequences, as measured by their Levenshtein distance
 
-* [Histogram equalization](HistogramEqualization)    :    use histogram to improve image contrast
+* [Histogram equalization](Histogram%20Equalization)    :    use histogram to improve image contrast
 
 * HMAC    :    keyed-hash message authentication
 
@@ -350,13 +352,13 @@
 
 * Incremental encoding    :    delta encoding applied to sequences of strings
 
-* [Insertion sort](InsertionSort)    :    determine where the current item belongs in the list of sorted ones, and insert it there
+* [Insertion sort](Insertion%20Sort)    :    determine where the current item belongs in the list of sorted ones, and insert it there
 
 * Inside-outside algorithm    :    An O(n<sup>3</sup>) algorithm for re-estimating production probabilities in probabilistic context-free grammars
 
 * Introsort    :    begin with quicksort and switch to heapsort when the recursion depth exceeds a certain level
 
-* [Inverse Fast Fourier Transform](InverseFastFourierTransform):    Inverse Fast Fourier transform (IFFT) algorithm computes the inverse discrete Fourier transform (Inverse DFT) of a sequence
+* [Inverse Fast Fourier Transform](Inverse%20Fast%20Fourier%20Transform):    Inverse Fast Fourier transform (IFFT) algorithm computes the inverse discrete Fourier transform (Inverse DFT) of a sequence
 
 * Jaro–Winkler distance    :    is a measure of similarity between two strings
 
@@ -418,7 +420,7 @@
 
 * Linear interpolation    :    a method of curve fitting using linear polynomials
 
-* [Linear search](LinearSearch)    :    finds an item in an unsorted sequence
+* [Linear search](Linear%20Search)    :    finds an item in an unsorted sequence
 
 * LL parser    :    A relatively simple linear time parsing algorithm for a limited class of context-free grammars
 
@@ -430,7 +432,7 @@
 
 * Longest increasing subsequence problem    :    Find the longest increasing subsequence of a given sequence
 
-* [Longest path problem](LongestPath)    :    find a simple path of maximum length in a given graph
+* [Longest path problem](Longest%20Path)    :    find a simple path of maximum length in a given graph
 
 * LPBoost    :    linear programming boosting
 
@@ -460,7 +462,7 @@
 
 * Maximum parsimony (phylogenetics)    :    an algorithm for finding the simplest phylogenetic tree to explain a given character matrix.
 
-* [Merge sort](MergeSort)    :    sort the first and second half of the list separately, then merge the sorted lists
+* [Merge sort](Merge%20Sort)    :    sort the first and second half of the list separately, then merge the sorted lists
 
 * Metaphone    :    an algorithm for indexing words by their sound, when pronounced in English
 
@@ -518,7 +520,7 @@
 
 * Paxos algorithm    :    a family of protocols for solving consensus in a network of unreliable processors
 
-* [Pearson hashing](PearsonHashing)    :    computes 8 bit value only, optimized for 8 bit computers
+* [Pearson hashing](Pearson%20Hashing)    :    computes 8 bit value only, optimized for 8 bit computers
 
 * Perceptron    :    the simplest kind of feedforward neural network: a linear classifier.
 
@@ -540,9 +542,9 @@
 
 * Q-learning    :    learn an action-value function that gives the expected utility of taking a given action in a given state and following a fixed policy thereafter
 
-* [Quickselect](QuickSelect)    :    selection algorithm to find the kth smallest element in an unordered list
+* [Quickselect](Quick%20Select)    :    selection algorithm to find the kth smallest element in an unordered list
 
-* [Quicksort](QuickSort)    :    divide list into two, with all items on the first list coming before all items on the second list.; then sort the two lists. Often the method of choice
+* [Quicksort](Quick%20Sort)    :    divide list into two, with all items on the first list coming before all items on the second list.; then sort the two lists. Often the method of choice
 
 * Quine–McCluskey algorithm    :    Also called as Q-M algorithm, programmable method for simplifying the boolean equations.
 
@@ -594,7 +596,7 @@
 
 * Selection algorithm    :    finds the <i>k</i>th largest item in a sequence
 
-* [Selection sort](SelectionSort)    :    pick the smallest of the remaining elements, add it to the end of the sorted list
+* [Selection sort](Selection%20Sort)    :    pick the smallest of the remaining elements, add it to the end of the sorted list
 
 * Self-organizing map    :    an unsupervised network that produces a low-dimensional representation of the input space of the training samples
 
@@ -606,7 +608,7 @@
 
 * Shannon–Fano–Elias coding    :    precursor to arithmetic encoding<sup id="cite_ref-1" class="reference">[1]</sup>
 
-* [Shell sort](ShellSort)    :    an attempt to improve insertion sort
+* [Shell sort](Shell%20Sort)    :    an attempt to improve insertion sort
 
 * Shifting nth-root algorithm    :    digit by digit root extraction
 
@@ -646,6 +648,8 @@
 
 * Sukhotin's algorithm    :    a statistical classification algorithm for classifying characters in a text as vowels or consonants
 
+* Sumset (Minkowski sum) algorithm    :    a method for computing the sum of two sets of numbers, C = A + B, is defined to be the set of all sums of an element from A with an element from B;
+
 * SURF (Speeded Up Robust Features)    :    is a robust local feature detector, first presented by Herbert Bay et al. in 2006, that can be used in computer vision tasks like object recognition or 3D reconstruction. It is partly inspired by the SIFT descriptor. The standard version of SURF is several times faster than SIFT and claimed by its authors to be more robust against different image transformations than SIFT.
 
 * Sweep and prune    :    a broad phase algorithm used during collision detection to limit the number of pairs of solids that need to be checked for collision
@@ -667,63 +671,33 @@
 * Toom–Cook multiplication    :    (Toom3) a multiplication algorithm for large integers
 
 * Top-nodes algorithm    :    resource calendar management
-
-* [Topological sort](TopologicalSort)    :    finds linear order of nodes (e.g. jobs) based on their dependencies.
-
+* [Topological sort](Topological%20Sort)    :    finds linear order of nodes (e.g. jobs) based on their dependencies.
 * Transform coding    :    type of data compression for "natural" data like audio signals or photographic images
-
 * Trigram search    :    search for text when the exact syntax or spelling of the target object is not precisely known
-
 * Ukkonen's algorithm    :    a linear-time, online algorithm for constructing suffix trees
-
-* [Unary coding](UnaryCoding)    :    code that represents a number n with n ones followed by a zero
-
+* [Unary coding](Unary%20Coding)    :    code that represents a number n with n ones followed by a zero
 * Uniform binary search    :    an optimization of the classic binary search algorithm
-
 * Uniform-cost search    :    a tree search that finds the lowest cost route where costs vary
-
 * UPGMA    :    a distance-based phylogenetic tree construction algorithm.
-
 * Vector clocks    :    generate a partial ordering of events in a distributed system and detect causality violations
-
 * Vector quantization    :    technique often used in lossy data compression
-
-* [VEGAS algorithm](VEGASAlgorithm)    :    a method for reducing error in Monte Carlo simulations
-
+* [VEGAS algorithm](VEGAS%20Algorithm)    :    a method for reducing error in Monte Carlo simulations
 * Velvet    :    a set of algorithms manipulating de Bruijn graphs for genomic sequence assembly
-
 * Vincenty's formulae    :    a fast algorithm to calculate the distance between two latitude/longitude points on an ellipsoid
-
 * Viterbi algorithm    :    find the most likely sequence of hidden states in a hidden markov model
-
 * WACA clustering algorithm    :    a local clustering algorithm with potentially multi-hop structures; for dynamic networks
-
 * Wang and Landau algorithm    :    an extension of Metropolis–Hastings algorithm sampling
-
 * Warnsdorff's algorithm    :    A heuristic method for solving the Knight's Tour problem.
-
-	* A    :    special case of best-first search that uses heuristics to improve speed
-
-	* B    :    a best-first graph search algorithm that finds the least-cost path from a given initial node to any goal node (out of one or more possible goals)
-
+* A*    :    special case of best-first search that uses heuristics to improve speed
+* B*    :    a best-first graph search algorithm that finds the least-cost path from a given initial node to any goal node (out of one or more possible goals)
 * Watershed transformation    :    a class of algorithms based on the watershed analogy
-
 * Wavelet compression    :    form of data compression well suited for image compression (sometimes also video compression and audio compression)
-
 * Winnow algorithm    :    related to the perceptron, but uses a multiplicative weight-update scheme
-
 * Xiaolin Wu's line algorithm    :    algorithm for line antialiasing.
-
-* [Xor swap algorithm](XorSwap)    :    swaps the values of two variables without using a buffer
-
+* [Xor swap algorithm](Xor%20Swap)    :    swaps the values of two variables without using a buffer
 * Yamartino method    :    calculate an approximation to the standard deviation σθ of wind direction θ during a single pass through the incoming data
-
 * Zhu–Takaoka string matching algorithm    :    a variant of the Boyer–Moore
-
 * Ziggurat algorithm    :    generate random numbers from a non-uniform distribution
-
 * Zobrist hashing    :    used in the implementation of transposition tables
-
 * Union Find : used to know if there is a path between 2 objects or not
-
 * Fibonacci Recursive : Fibonacci series printed using Java Recursion
